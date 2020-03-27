@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pre Requirement
+- Install [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) extension for Visual Studio Code.
+
 ## Available Scripts
 
 In the project directory, you can run:
